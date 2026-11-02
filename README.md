@@ -1,4 +1,4 @@
-<p align="center"><img src="banner.png" width="100%" alt="BrickyStudios: open-source apps and AI tools. Two Renaissance angels after Raphael's Sistine Madonna, in black and white"></p>
+<p align="center"><img src="banner.png" width="100%" alt="Building in the open. BrickyStudios: open-source apps and AI tools. Engraving of a falling angel by Gustave Doré on a dark blue background"></p>
 
 <p align="center"><strong>Open-source Android apps, Claude skills and tools for local AI. Small, offline where possible, no accounts.</strong></p>
 
@@ -20,4 +20,4 @@
 | **[Qwen Warteschlange](https://github.com/BrickyStudios/qwen-warteschlange)** · ComfyUI | Desktop queue for editing photos with Qwen Image 2.1: drag and drop, groups, reference images. |
 | **[Strava Dashboard](https://github.com/BrickyStudios/strava-dashboard)** · Python | Local Strava dashboard with activity grades, route maps and AI coaching notes. |
 
-<p align="center"><sub>Banner and avatar: <i>Sistine Madonna</i> by Raphael (1512), public domain.</sub></p>
+<p align="center"><sub>Banner and avatar: falling angel from Gustave Doré's illustrations for <i>Paradise Lost</i> (1866), public domain.</sub></p>
