@@ -20,4 +20,4 @@
 | **[Qwen Warteschlange](https://github.com/BrickyStudios/qwen-warteschlange)** · ComfyUI | Desktop queue for editing photos with Qwen Image 2.1: drag and drop, groups, reference images. |
 | **[Strava Dashboard](https://github.com/BrickyStudios/strava-dashboard)** · Python | Local Strava dashboard with activity grades, route maps and AI coaching notes. |
 
-<p align="center"><sub>Banner and avatar: falling angel from Gustave Doré's illustrations for <i>Paradise Lost</i> (1866), public domain.</sub></p>
+<p align="center"><sub>Banner and avatar: engraving of a falling angel by Gustave Doré (1832–1883), public domain.</sub></p>
