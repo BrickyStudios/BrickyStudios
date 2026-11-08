@@ -17,6 +17,7 @@
 |---|---|
 | **[FitShare](https://github.com/BrickyStudios/FitShare)** · Android + web | Turns Mi Fitness, Garmin Connect, Strava or Gadgetbridge workouts into transparent Instagram story stickers. Offline, no account. [Website](https://brickystudios.github.io/FitShare/) · [Download APK](https://github.com/BrickyStudios/FitShare/releases/latest/download/FitShare.apk) |
 | **[Monatskasse](https://github.com/BrickyStudios/monatskasse)** · Android + web | Pocket-money app and budget book without an account: log expenses, scan receipts, export to Excel. In German. [Website](https://brickystudios.github.io/monatskasse/) · [Download APK](https://github.com/BrickyStudios/monatskasse/releases/latest/download/Monatskasse.apk) |
+| **[Passwerk](https://github.com/BrickyStudios/digitaler-produktpass)** · Web | Source-available generator for EU digital product passports and battery passports: one JSON file per product, passport pages with GS1 QR codes on GitHub Pages. [Website: Digitaler Produktpass](https://brickystudios.github.io/digitaler-produktpass/) · [Battery passport guide](https://brickystudios.github.io/digitaler-produktpass/en/battery-passport/) |
 | **[AI Fact Checker](https://github.com/BrickyStudios/ai-fact-checker-claude-skill)** · Claude skill | Checks reports, PDFs and AI drafts claim by claim and proves quotes and numbers with a script. |
 | **[Strava Dashboard](https://github.com/BrickyStudios/strava-dashboard)** · Python | Self-hosted Strava dashboard with activity grades, route maps and AI coaching notes. Demo mode, no account needed. |
 
