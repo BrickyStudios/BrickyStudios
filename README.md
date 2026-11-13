@@ -3,12 +3,12 @@
 <p align="center"><strong>Open-source Android and web apps, Claude skills and self-hosted tools. Small, offline where possible, no accounts.</strong></p>
 
 <p align="center">
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0C0D0B?logo=kotlin&logoColor=C6F432">
-  <img alt="Python" src="https://img.shields.io/badge/Python-0C0D0B?logo=python&logoColor=C6F432">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0C0D0B?logo=javascript&logoColor=C6F432">
-  <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack_Compose-0C0D0B?logo=jetpackcompose&logoColor=C6F432">
-  <img alt="Claude" src="https://img.shields.io/badge/Claude-0C0D0B?logo=claude&logoColor=C6F432">
-  <img alt="Capacitor" src="https://img.shields.io/badge/Capacitor-0C0D0B?logo=capacitor&logoColor=C6F432">
+  <img alt="Kotlin, Android Studio, Python, FastAPI, SQLite, JavaScript, HTML, CSS, Node.js, GitHub Actions, Arch Linux" src="https://skillicons.dev/icons?i=kotlin,androidstudio,py,fastapi,sqlite,js,html,css,nodejs,githubactions,arch&theme=dark&perline=11">
+</p>
+<p align="center">
+  <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack_Compose-070D20?logo=jetpackcompose&logoColor=C9A96B">
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-070D20?logo=claude&logoColor=C9A96B">
+  <img alt="Capacitor" src="https://img.shields.io/badge/Capacitor-070D20?logo=capacitor&logoColor=C9A96B">
 </p>
 
 ## Projects
@@ -22,5 +22,16 @@
 | **[Passwerk](https://github.com/BrickyStudios/digitaler-produktpass)** · Web | Source-available generator for EU digital product passports and battery passports: one JSON file per product, passport pages with GS1 QR codes on GitHub Pages. [Website: Digitaler Produktpass](https://brickystudios.github.io/digitaler-produktpass/) · [Battery passport guide](https://brickystudios.github.io/digitaler-produktpass/en/battery-passport/) |
 | **[AI Fact Checker](https://github.com/BrickyStudios/ai-fact-checker-claude-skill)** · Claude skill | Checks reports, PDFs and AI drafts claim by claim and proves quotes and numbers with a script. |
 | **[Strava Dashboard](https://github.com/BrickyStudios/strava-dashboard)** · Python | Self-hosted Strava dashboard with activity grades, route maps and AI coaching notes. Demo mode, no account needed. |
+
+## Activity
+
+<p align="center">
+  <img alt="Most used languages: Kotlin, Python, JavaScript, HTML, CSS" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BrickyStudios&langs_count=6&layout=compact&exclude_repo=dienstplan-open-source,platform_frameworks_base,platform_packages_apps_Settings&bg_color=070d20&title_color=c9a96b&text_color=d8dde8&hide_border=true&border_radius=6">
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrickyStudios/BrickyStudios/output/snake-dark.svg">
+  <img alt="Contribution graph eaten by a snake" src="https://raw.githubusercontent.com/BrickyStudios/BrickyStudios/output/snake.svg">
+</picture>
 
 <p align="center"><sub>Banner and avatar: engraving of a falling angel by Gustave Doré (1832–1883), public domain.</sub></p>
